@@ -77,10 +77,10 @@ Then visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ## 📞 Contact
 Developed by
 [Github](https://github.com/aniket-next). <br>
-[LinkedIn](https://www.linkedin.com/aniiiket-singh)<br>
-[Email] (anikxtpro@gmail.com)<br>
+[LinkedIn](https://www.linkedin.com/in/aniiiket-singh)<br>
 [Instagram](https://www.instagram.com/aniiiket.siiingh)<br>
-[X/twitter](https://www.x.com/Aniiiketsiingh)
+[X/twitter](https://www.x.com/Aniiiketsiingh)<br>
+Email: (anikxtpro@gmail.com)
 
 For queries, open an issue or contact via GitHub or other social media.
 
