@@ -1,10 +1,10 @@
-# 🧠 MedalyZe: AI-Powered Disease and Medicine Recommender
+### 🧠 MedalyZe: AI-Base-Disease-and-Medicine-Recommender
 
 MedalyZe is a Flask-based AI web app that predicts diseases from user-entered symptoms and recommends treatment, medicines, precautions, and diet. It uses NLP and machine learning techniques to provide intelligent analysis from both short phrases and detailed symptom descriptions.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 medalyze/
@@ -27,7 +27,7 @@ medalyze/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -74,31 +74,15 @@ Then visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-## 📌 Notes
-- ❌ **Do NOT upload `.env` or `models/` to GitHub.** They should be in `.gitignore`.
-- ✅ You SHOULD upload `.env.example` so others know what to configure.
-- ✅ You SHOULD train the model once and keep the generated `.pkl` files locally.
-
----
-
-## ✅ GitHub Setup Checklist
-- [x] `.gitignore` includes `.env`, `venv/`, `*.pkl`, `__pycache__/`
-- [x] `.env.example` is included
-- [x] Code is tested with Python 3.9
-- [x] README has install/run instructions
-
----
-
-## 🧪 Run Tests (Optional)
-If you want to run full unit/integration tests:
-```bash
-python test_disease_predictor.py
-```
-
----
-
 ## 📞 Contact
-Developed by [aniket-next](https://github.com/aniket-next). For queries, open an issue or contact via GitHub.
+Developed by
+[Github](https://github.com/aniket-next). 
+[LinkedIn](www.linkedin.com/in/aniiiket-singh)
+[Email] (anikxtpro@gmail.com)
+[Instagram](https://www.instagram.com/aniiiket.siiingh)
+[X/twitter](https://www.x.com/Aniiiketsiingh)
+
+For queries, open an issue or contact via GitHub or other social media.
 
 ---
 
