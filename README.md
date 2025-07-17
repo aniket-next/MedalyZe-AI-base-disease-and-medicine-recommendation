@@ -76,10 +76,10 @@ Then visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📞 Contact
 Developed by
-[Github](https://github.com/aniket-next). 
-[LinkedIn](www.linkedin.com/in/aniiiket-singh)
-[Email] (anikxtpro@gmail.com)
-[Instagram](https://www.instagram.com/aniiiket.siiingh)
+[Github](https://github.com/aniket-next). <br>
+[LinkedIn](https://www.linkedin.com/aniiiket-singh)<br>
+[Email] (anikxtpro@gmail.com)<br>
+[Instagram](https://www.instagram.com/aniiiket.siiingh)<br>
 [X/twitter](https://www.x.com/Aniiiketsiingh)
 
 For queries, open an issue or contact via GitHub or other social media.
