@@ -41,7 +41,7 @@ conda create -p ./venv python=3.9 -y
 conda activate ./venv
 ```
 
-> ✅ Make sure you see `(venv)` in your terminal.
+>  Make sure you see `(venv)` in your terminal.
 
 ### 3. Install Dependencies
 ```bash
@@ -57,7 +57,7 @@ You can set your `SECRET_KEY` and toggle `FLASK_DEBUG` in `.env`.
 
 ---
 
-## 🧠 Training the Model
+##  Training the Model
 If you haven't trained your ML model yet:
 ```bash
 python train_disease.py
@@ -66,7 +66,7 @@ python train_disease.py
 
 ---
 
-## 🚀 Run the App
+##  Run the App
 ```bash
 python main_app.py
 ```
@@ -74,7 +74,7 @@ Then visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-## 📞 Contact
+##  Contact
 Developed by
 [Github](https://github.com/aniket-next). <br>
 [LinkedIn](https://www.linkedin.com/in/aniiiket-singh)<br>
